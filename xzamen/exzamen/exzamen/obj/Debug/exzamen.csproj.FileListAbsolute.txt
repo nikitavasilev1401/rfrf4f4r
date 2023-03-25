@@ -1,0 +1,11 @@
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\bin\Debug\exzamen.exe.config
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\bin\Debug\exzamen.exe
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\bin\Debug\exzamen.pdb
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.Form1.resources
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.Properties.Resources.resources
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.exe
+C:\Users\Администратор\Desktop\xzamen\exzamen\exzamen\obj\Debug\exzamen.pdb
